@@ -1,0 +1,177 @@
+# Company & Competitive News Memo — Last 12 Months
+
+## COMPANY SNAPSHOT
+- **Company:** First Due
+- **Industry:** Fire & EMS / public safety software (RMS and data platforms)
+- **HQ / Geography:** Miami, Florida, USA
+- **Product / Business Model:** AI-powered fire and EMS RMS software suite sold to public safety agencies.
+
+## COMPETITIVE LANDSCAPE
+- **Primary Competitors:**
+  - ESO Solutions — EMS data, ePCR, and analytics platform for agencies and state repositories.
+  - ImageTrend — EMS/fire reporting, analytics, and compliance software.
+  - CentralSquare — public safety CAD/RMS and cloud public safety suite used by fire and municipal agencies.
+
+## EXECUTIVE SUMMARY (3–4 bullets max)
+- First Due accelerated product expansion across prevention, training, analytics, and adjacent public safety markets in 2025, signaling a broader platform play.
+- A $355M strategic investment provides substantial capital for scaling product and market reach.
+- Compliance milestones (NERIS and NEMSIS 3.5) reinforce data standards readiness, a critical procurement and adoption driver.
+
+## KEY COMPANY DEVELOPMENTS (5–7 bullets max)
+
+- **2025-02-26 — Launches Fire Prevention ITM solution.**
+  Why it matters: **Expands into prevention/compliance workflows, adding a new revenue stream beyond response operations.**
+  (Source: [A1](https://www.firstdue.com/news/itm-solution))
+
+- **2025-03-18 — Launches scheduling & workforce management platform for law enforcement.**
+  Why it matters: **Signals expansion beyond fire/EMS into broader public safety markets.**
+  (Source: [A2](https://www.firstdue.com/news/first-due-launches-law-enforcement))
+
+- **2025-04-08 — Launches Learning Management System for Fire & EMS training.**
+  Why it matters: **Adds training/compliance to the suite, increasing stickiness and cross-sell potential.**
+  (Source: [A3](https://www.firstdue.com/news/first-due-launches-lms))
+
+- **2025-07-21 — Launches Advanced Data Insights analytics.**
+  Why it matters: **Strengthens data-driven decision support, a key differentiator in agency purchasing.**
+  (Source: [A4](https://www.firstdue.com/news/launches-data-insights))
+
+- **2025-08-05 — Secures $355M strategic investment.**
+  Why it matters: **Material capital infusion to accelerate product development, go-to-market, and scale.**
+  (Source: [A5](https://www.firstdue.com/news/investment))
+
+- **2025-11-06 — Leads NERIS transition, powering nearly half of submissions.**
+  Why it matters: **Demonstrates adoption at scale and positions First Due as a standards leader.**
+  (Source: [A6](https://www.firstdue.com/news/first-due-leads-neris-transition))
+
+- **2025-12-04 — Achieves NEMSIS 3.5 Receive & Process compliance.**
+  Why it matters: **Improves eligibility in state EMS procurements and reduces compliance friction.**
+  (Source: [A7](https://www.firstdue.com/news/nemsis-3-5-compliance))
+
+---
+
+## COMPETITOR MOVES & SIGNALS (3–5 bullets max)
+
+- **ESO Solutions — 2025-07-29 — Expands partnership with Virginia for EMS and trauma data repositories.**
+  Why it matters: **Strengthens ESO’s state-level footprint and data-platform credibility in core EMS markets.**
+  (Source: [B1](https://www.eso.com/news/press-releases/eso-solutions-expands-partnership-with-commonwealth-of-virginia-to-advance-ems-and-trauma-data-repository-systems/))
+
+- **ImageTrend — 2025-02-28 — Announces growth, acquisitions, and brand evolution.**
+  Why it matters: **Signals consolidation and scale-up efforts in direct competition for agency budgets.**
+  (Source: [B2](https://www.imagetrend.com/press-releases/growth-acquisitions-brand-evolution/))
+
+- **CentralSquare — 2025-01-06 — Acquires Blueline AI to accelerate AI strategy.**
+  Why it matters: **Increases competitive pressure on AI-enabled public safety workflows.**
+  (Source: [B3](https://www.centralsquare.com/news-and-events/press/centralsquare-acquires-blueline-ai))
+
+---
+
+## LEADERSHIP & ORG CHANGES (LAST 12 MONTHS)
+
+- **2025-07-14 — Dr. Andrew Stevens, Medical Director.**
+  Why it matters: **Brings clinical leadership to EMS innovation and product credibility.**
+  (Source: [C1](https://www.firstdue.com/news/dr-stevens))
+  Confidence: HIGH
+
+---
+
+## RECENT SIGNALS (LAST ~90 DAYS)
+- QA/QI AI improvements highlighted in EMS workflow updates. (Source: [D1](https://www.firstdue.com/news/qa-qi-ai))
+- Recognition on Fast Company’s “Next Big Things in Tech” list (second consecutive year). (Source: [D2](https://www.firstdue.com/news/first-dues-ai-powered-innovation-in-fire-and-ems-earns-second-consecutive-recognition-on-fast-companys-next-big-things-in-tech-list))
+- Ranked #115 on the 2025 Deloitte Technology Fast 500. (Source: [D3](https://www.firstdue.com/news/first-due-ranked-115-on-the-2025-deloitte-technology-fast-500))
+
+---
+
+## OPEN QUESTIONS / WATCH AREAS
+- How quickly will the $355M investment translate into measurable product/market expansion?
+- Will compliance leadership (NERIS/NEMSIS) translate into large statewide contract wins?
+- How aggressively will ESO and ImageTrend expand via acquisitions or state partnerships in 2026?
+tokens used
+74,958
+# Company & Competitive News Memo — Last 12 Months
+
+## COMPANY SNAPSHOT
+- **Company:** First Due
+- **Industry:** Fire & EMS / public safety software (RMS and data platforms)
+- **HQ / Geography:** Miami, Florida, USA
+- **Product / Business Model:** AI-powered fire and EMS RMS software suite sold to public safety agencies.
+
+## COMPETITIVE LANDSCAPE
+- **Primary Competitors:**
+  - ESO Solutions — EMS data, ePCR, and analytics platform for agencies and state repositories.
+  - ImageTrend — EMS/fire reporting, analytics, and compliance software.
+  - CentralSquare — public safety CAD/RMS and cloud public safety suite used by fire and municipal agencies.
+
+## EXECUTIVE SUMMARY (3–4 bullets max)
+- First Due accelerated product expansion across prevention, training, analytics, and adjacent public safety markets in 2025, signaling a broader platform play.
+- A $355M strategic investment provides substantial capital for scaling product and market reach.
+- Compliance milestones (NERIS and NEMSIS 3.5) reinforce data standards readiness, a critical procurement and adoption driver.
+
+## KEY COMPANY DEVELOPMENTS (5–7 bullets max)
+
+- **2025-02-26 — Launches Fire Prevention ITM solution.**
+  Why it matters: **Expands into prevention/compliance workflows, adding a new revenue stream beyond response operations.**
+  (Source: [A1](https://www.firstdue.com/news/itm-solution))
+
+- **2025-03-18 — Launches scheduling & workforce management platform for law enforcement.**
+  Why it matters: **Signals expansion beyond fire/EMS into broader public safety markets.**
+  (Source: [A2](https://www.firstdue.com/news/first-due-launches-law-enforcement))
+
+- **2025-04-08 — Launches Learning Management System for Fire & EMS training.**
+  Why it matters: **Adds training/compliance to the suite, increasing stickiness and cross-sell potential.**
+  (Source: [A3](https://www.firstdue.com/news/first-due-launches-lms))
+
+- **2025-07-21 — Launches Advanced Data Insights analytics.**
+  Why it matters: **Strengthens data-driven decision support, a key differentiator in agency purchasing.**
+  (Source: [A4](https://www.firstdue.com/news/launches-data-insights))
+
+- **2025-08-05 — Secures $355M strategic investment.**
+  Why it matters: **Material capital infusion to accelerate product development, go-to-market, and scale.**
+  (Source: [A5](https://www.firstdue.com/news/investment))
+
+- **2025-11-06 — Leads NERIS transition, powering nearly half of submissions.**
+  Why it matters: **Demonstrates adoption at scale and positions First Due as a standards leader.**
+  (Source: [A6](https://www.firstdue.com/news/first-due-leads-neris-transition))
+
+- **2025-12-04 — Achieves NEMSIS 3.5 Receive & Process compliance.**
+  Why it matters: **Improves eligibility in state EMS procurements and reduces compliance friction.**
+  (Source: [A7](https://www.firstdue.com/news/nemsis-3-5-compliance))
+
+---
+
+## COMPETITOR MOVES & SIGNALS (3–5 bullets max)
+
+- **ESO Solutions — 2025-07-29 — Expands partnership with Virginia for EMS and trauma data repositories.**
+  Why it matters: **Strengthens ESO’s state-level footprint and data-platform credibility in core EMS markets.**
+  (Source: [B1](https://www.eso.com/news/press-releases/eso-solutions-expands-partnership-with-commonwealth-of-virginia-to-advance-ems-and-trauma-data-repository-systems/))
+
+- **ImageTrend — 2025-02-28 — Announces growth, acquisitions, and brand evolution.**
+  Why it matters: **Signals consolidation and scale-up efforts in direct competition for agency budgets.**
+  (Source: [B2](https://www.imagetrend.com/press-releases/growth-acquisitions-brand-evolution/))
+
+- **CentralSquare — 2025-01-06 — Acquires Blueline AI to accelerate AI strategy.**
+  Why it matters: **Increases competitive pressure on AI-enabled public safety workflows.**
+  (Source: [B3](https://www.centralsquare.com/news-and-events/press/centralsquare-acquires-blueline-ai))
+
+---
+
+## LEADERSHIP & ORG CHANGES (LAST 12 MONTHS)
+
+- **2025-07-14 — Dr. Andrew Stevens, Medical Director.**
+  Why it matters: **Brings clinical leadership to EMS innovation and product credibility.**
+  (Source: [C1](https://www.firstdue.com/news/dr-stevens))
+  Confidence: HIGH
+
+---
+
+## RECENT SIGNALS (LAST ~90 DAYS)
+- QA/QI AI improvements highlighted in EMS workflow updates. (Source: [D1](https://www.firstdue.com/news/qa-qi-ai))
+- Recognition on Fast Company’s “Next Big Things in Tech” list (second consecutive year). (Source: [D2](https://www.firstdue.com/news/first-dues-ai-powered-innovation-in-fire-and-ems-earns-second-consecutive-recognition-on-fast-companys-next-big-things-in-tech-list))
+- Ranked #115 on the 2025 Deloitte Technology Fast 500. (Source: [D3](https://www.firstdue.com/news/first-due-ranked-115-on-the-2025-deloitte-technology-fast-500))
+
+---
+
+## OPEN QUESTIONS / WATCH AREAS
+- How quickly will the $355M investment translate into measurable product/market expansion?
+- Will compliance leadership (NERIS/NEMSIS) translate into large statewide contract wins?
+- How aggressively will ESO and ImageTrend expand via acquisitions or state partnerships in 2026?
+
